@@ -1,4 +1,4 @@
-<h1>BotGPT - Flutter Mobile ChatGPT App (iOS/Anrdoid)</h1>
+<h1>Chinese Character - Memory Testing Flashcard Game (iOS/Anrdoid)</h1>
 
 
 <h2>Description</h2>
