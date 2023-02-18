@@ -1,16 +1,47 @@
-# hanzi_trainer
+<h1>BotGPT - Flutter Mobile ChatGPT App (iOS/Anrdoid)</h1>
 
-A new Flutter project.
 
-## Getting Started
+<h2>Description</h2>
+This is a flashcard app for learning Chinese characters. The app allows users to flip through flashcards and learn new characters, with features such as text-to-speech and customizable settings.
 
-This project is a starting point for a Flutter application.
+The app was built using Dart and Flutter, and incorporates various animations and UI elements such as a custom app bar and hero animation. The app also integrates a SQLite database for storing user preferences and progress data.
 
-A few resources to get you started if this is your first Flutter project:
+Features include a progress bar, results pop-up box, and customizable settings menu. Users can review previously learned characters with the review page and animated list features.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Overall, the app provides a fun and interactive way to learn Chinese characters, with an intuitive user interface and customizable features to enhance the learning experience.
+<br />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Dart</b> 
+- <b>Flutter Framewoork</b>
+- <b>SQLite</b>
+- <b>TTS package</b>
+
+
+<h2>App walk-through:</h2>
+
+<p align="center">
+Hanzi Trainer: <br/>
+<img src="https://i.imgur.com/7y8Ku6V.png" height="20%" width="20%" alt="Hanzi"/>
+
+<img src="https://i.imgur.com/23tcnkB.png" height="20%" width="20%" alt="Hanzi"/>
+
+<img src="https://i.imgur.com/xNhpTIl.png" height="20%" width="20%" alt="Hanzi"/>
+
+<img src="https://i.imgur.com/4aJzDL4.png" height="20%" width="20%" alt="Hanzi"/>
+
+<br />
+
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
